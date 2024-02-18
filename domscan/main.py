@@ -41,6 +41,3 @@ class Domscan: # from domscan import Domscan
                 "status": False,
                 "extensao": dominio_usado
             }
-
-dom = Domscan()
-print(dom.domain('youtube.come'))
