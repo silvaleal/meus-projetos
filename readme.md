@@ -4,4 +4,4 @@ Bem-vindo(a) ao espaço dedicado aos projetos que desenvolvi. Cada projeto está
 
 # Lista de projetos
 
-1. [domscan](./domscan) - Ferramenta que permite determinar se um determinado domínio está registrado ou não.
+1. [domscan](https://github.com/silvaleal/domscan) - Ferramenta que permite determinar se um determinado domínio está registrado ou não.
